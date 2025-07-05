@@ -1,4 +1,4 @@
-# Smart Student Model
+# Smarter Student
 
 ## Final Model & Full Pipeline
 
